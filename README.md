@@ -1,11 +1,11 @@
 # Eye-Tracker
-The eye tracks the cursor across the screen.
+The eyes tracks the cursor across the screen.
 
 # Summary
-This is an animation of an eye that looks as if it is tracking the users cursor on the computer screen.
+This is an animation of two eyes that looks as if they are tracking the users cursor on the computer screen.
 
 # Future Improvments
-To add to this project, I would create a second eye that also tracks the users mouse cursor. Also, I would be fun to add a blinking feature to the eyes to make them appear more real.
+To add to this project, I would be fun to add a blinking feature to the eyes to make them appear more real. Also, a featuer could be added wher if you click on the eyes themselves, they squint as if you "poked" the eye.
 
 # Support
 You can access my github [here](http://github.com/kaylaschumacher.github.io).
