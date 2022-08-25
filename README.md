@@ -7,6 +7,9 @@ This is an animation of two eyes that looks as if they are tracking the users cu
 # Future Improvments
 To add to this project, I would be fun to add a blinking feature to the eyes to make them appear more real. Also, a featuer could be added wher if you click on the eyes themselves, they squint as if you "poked" the eye.
 
+# Run Roadmap
+In order to run this project, download all the files and then open index.html.
+
 # Support
 You can access my github [here](http://github.com/kaylaschumacher.github.io).
 
